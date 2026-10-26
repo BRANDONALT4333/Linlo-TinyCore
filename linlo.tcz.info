@@ -1,0 +1,17 @@
+Title:          linlo.tcz
+Description:    Interactive Bash-based filesystem search utility
+Version:        1.1
+Author:         EclipseGMD
+Original-site:  https://github.com/BRANDONALT4333/Linlo
+Copying-policy: EWSW-2.0
+Size:           12K
+Extension_by:   EclipseGMD
+Tags:           search filesystem terminal bash
+Comments:       Run linlo to start the interactive filesystem search tool.
+                Requires bash and findutils.
+                Documentation and license are included.
+                ----
+                Tested in Debian Crostini; Tiny Core testing pending.
+
+Change-log:     2026/10/26 Initial Tiny Core package.
+Current:        2026/10/26
